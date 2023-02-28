@@ -5,7 +5,7 @@ id = be728fb2-ffe0-483a-b0e0-fd9e28a7ce96
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"18748566-aa0cd3e0-4ba6-4a66-81f4-65a0fa837825","path":"Secret Santa.json","metaData":{}}
+files[] = {"id":"18748566-36a7d50b-3488-42cc-a9ba-9931116e671a","path":"Secret Santa(1).json","metaData":{}}
 
 [relations.collections.metaData]
 
